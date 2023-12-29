@@ -1,2 +1,3 @@
 # ATOM
-Colab  โค้ด MIRnet-v.2 : https://colab.research.google.com/drive/1M-ZTWXVHWygfHq4vsFZcGRdh4iJVkGYl?usp=sharing
+Pls read : Ref โค้ด อ้างอิงอยู่ใน Colab 
+Pls read : The reference code is in Colab
